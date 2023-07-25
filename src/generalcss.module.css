@@ -1,0 +1,16 @@
+.buttone{
+    background-color: green;
+    
+}
+
+
+
+.buttone:hover{
+    height: 30px;
+    width: 30px;
+}
+
+.delete:hover{
+    height: 30px;
+    width: 30px;
+}
